@@ -1,0 +1,10 @@
+[
+    {
+        "id": "nsd_runner",
+        "path": "./scripts/nsd_runner.py"
+    },
+    {
+        "id": "report_server",
+        "path": "./scripts/report_server.py"
+    }
+]
